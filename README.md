@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="center"><img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/header.png" width="1380px" height="180px"></p>
 
-# Hello, I'm Insu Patle ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
+# Hello, I'm Insu Patle ! <img src="https://www.istockphoto.com/photo/mba-with-man-gm1159875854-317318807" width="29px" height="29px">
 
 <hr>
 
