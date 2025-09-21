@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center"><img src="https://www.istockphoto.com/photo/mba-with-man-gm1159875854-317318807" width="1380px" height="180px"></p>
+<p align="center"><img src="https://media.istockphoto.com/id/1159875854/photo/mba-with-man.jpg?s=1024x1024&w=is&k=20&c=muIs0OxeW4_z6rHaLPgXi01IMsf5nfc3YJ61VsdefOY=" width="1380px" height="180px"></p>
 
 # Hello, I'm Insu Patle ! <img src="" width="29px" height="29px">
 
