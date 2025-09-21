@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center"><img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/header.png" width="1380px" height="180px"></p>
+<p align="center"><img src="https://www.istockphoto.com/photo/mba-with-man-gm1159875854-317318807" width="1380px" height="180px"></p>
 
 # Hello, I'm Insu Patle ! <img src="" width="29px" height="29px">
 
